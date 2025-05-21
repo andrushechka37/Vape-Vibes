@@ -1,5 +1,12 @@
 # Vape&Vibes
 
+## Материалы:
+
+[Пояснительная записка](files/записка.pdf)
+
+[Постер](files/постер.pdf)
+
+[Презентация](files/преза.pptx)
 
 ## 1. Авторы
 
@@ -39,7 +46,7 @@
 
 ## 5. Процесс решения и ссылки на репозиторий
 
-Полный код и модели находятся в GitHub‑репозитории: **[https://github.com/username/radio‑ecig‑dock](https://github.com/username/radio‑ecig‑dock)**
+Полный код и модели находятся в GitHub‑репозитории: **[ссылка](https://github.com/andrushechka37/Vape-Vibes)**
 
 
 
@@ -47,7 +54,7 @@
 
 1. **CAD‑модель** создана в SolidWorks
 2. **Slicing**: OrcaSlicer
-3. **Пайка радио**: согласно схеме
+3. **Пайка радио**:
 
 ---
 
